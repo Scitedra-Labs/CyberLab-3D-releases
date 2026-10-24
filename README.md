@@ -38,3 +38,9 @@ This repository contains installation files only. The source code is private.
 
 ---
 Android is a trademark of Google LLC. · © Scitedra Labs
+
+## 📲 iPhone / iPad
+
+**עברית:** פותחים את https://cyberlab-3d.web.app ב-Safari ← שתף ← "הוסף למסך הבית" ← "הוסף". האפליקציה נפתחת במסך מלא, חינם, בלי App Store.
+
+**English:** Open https://cyberlab-3d.web.app in Safari → Share → "Add to Home Screen" → Add. Opens full-screen like an app. Free, no App Store.

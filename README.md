@@ -12,7 +12,9 @@ CyberLab 3D is an immersive 3D cyber-security learning game: a 60-lesson career 
 2. Open the downloaded file. If prompted, allow your browser to "install unknown apps".
 3. Tap **Install**.
 
-SHA-256: `dd456a075ed8197cb03f9e37e598771596fea82cba7e53f30ba70fbcbfe77dcd`
+SHA-256: `f2ff1fa0554207183bfc7c1cc75ec5c2199e8334f922705fc6ac885f9e186f19` (v2.2)
+
+> Upgrading from v2.1? Uninstall v2.1 first: v2.2 is signed with the permanent release key.
 
 This repository contains installation files only. The source code is private.
 
@@ -31,6 +33,10 @@ This repository contains installation files only. The source code is private.
 1. פותחים את קישור ההורדה **בטלפון** (Android 7 ומעלה).
 2. פותחים את הקובץ שירד. אם הטלפון מבקש, מאשרים לדפדפן "התקנת אפליקציות ממקורות לא ידועים".
 3. לוחצים **התקנה**.
+
+גרסה 2.2 · SHA-256: `f2ff1fa0554207183bfc7c1cc75ec5c2199e8334f922705fc6ac885f9e186f19`
+
+> משדרגים מגרסה 2.1? קודם מסירים את 2.1: גרסה 2.2 חתומה במפתח הקבוע.
 
 המאגר הזה מכיל קבצי התקנה בלבד. קוד המקור פרטי.
 

@@ -1,5 +1,13 @@
 # CyberLab 3D — Android Download | הורדה לאנדרואיד
 
+**▶ [Play in the browser](https://cyberlab-3d.web.app)** · **📄 [Product page](https://scitedra-labs.web.app/en/cyberlab-3d/)** · **⬇ [Download for Android](https://github.com/Scitedra-Labs/CyberLab-3D-releases/releases/latest)**
+
+<div dir="rtl" lang="he">
+
+**▶ [משחק בדפדפן](https://cyberlab-3d.web.app)** · **📄 [עמוד המוצר](https://scitedra-labs.web.app/cyberlab-3d/)** · **⬇ [הורדה לאנדרואיד](https://github.com/Scitedra-Labs/CyberLab-3D-releases/releases/latest)**
+
+</div>
+
 **English** · [עברית](#עברית)
 
 CyberLab 3D is an immersive 3D cyber-security learning game: a 60-lesson career track that takes you from help-desk basics to expert level, with interactive missions, technical-English practice and cloud save.
